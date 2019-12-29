@@ -1,3 +1,4 @@
+// 접미사 배열 
 #include <bits/stdc++.h>
 
 using namespace std;

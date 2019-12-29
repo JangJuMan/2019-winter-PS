@@ -1,4 +1,5 @@
 // (v)
+// 쉬운계단수 
 #include <bits/stdc++.h>
 
 using namespace std;

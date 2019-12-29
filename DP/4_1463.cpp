@@ -1,4 +1,5 @@
 // (v)
+// 1로 만들기
 #include <bits/stdc++.h>
 
 using namespace std;

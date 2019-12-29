@@ -1,4 +1,5 @@
 // (v)
+// RGB distance
 #include <bits/stdc++.h>
 
 using namespace std;
