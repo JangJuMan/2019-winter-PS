@@ -17,7 +17,6 @@ int findParent(int i){
 void unite(int a, int b){
     int x = findParent(a);
     int y = findParent(b);
-
     parent[x] = y;
 }
 
